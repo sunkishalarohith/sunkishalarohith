@@ -14,7 +14,7 @@
 |---|---|
 | [UMBC-DATA606-Capstone](https://github.com/sunkishalarohith853/UMBC-DATA606-Capstone) | Chicago crime probability prediction — EDA, Random Forest hotspot model, Streamlit app |
 | [rag-knowledge-assistant](https://github.com/sunkishalarohith853/rag-knowledge-assistant) | RAG Q&A over your own docs — sentence-transformers + FAISS + Streamlit, Dockerized |
-| [customer-churn-api](https://github.com/sunkishalarohith853/customer-churn-api) | Churn prediction microservice — scikit-learn + FastAPI + Docker, with tests |
+| [customer-churn-api](https://github.com/sunkishalarohith853/Customer-Churn-api) | Churn prediction microservice — scikit-learn + FastAPI + Docker, with tests |
 
 ## Connect
 
