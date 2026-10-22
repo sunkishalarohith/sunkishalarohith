@@ -12,9 +12,11 @@
 
 | Project | What it is |
 |---|---|
-| [UMBC-DATA606-Capstone](https://github.com/sunkishalarohith853/UMBC-DATA606-Capstone) | Chicago crime probability prediction — EDA, Random Forest hotspot model, Streamlit app |
-| [rag-knowledge-assistant](https://github.com/sunkishalarohith853/rag-knowledge-assistant) | RAG Q&A over your own docs — sentence-transformers + FAISS + Streamlit, Dockerized |
-| [customer-churn-api](https://github.com/sunkishalarohith853/Customer-Churn-api) | Churn prediction microservice — scikit-learn + FastAPI + Docker, with tests |
+| [UMBC-DATA606-Capstone](https://github.com/sunkishalarohith/UMBC-DATA606-Capstone) | Chicago crime probability prediction — EDA, Random Forest hotspot model, Streamlit app |
+| [rag-knowledge-assistant](https://github.com/sunkishalarohith/rag-knowledge-assistant) | RAG Q&A over your own docs — sentence-transformers + FAISS + Streamlit, Dockerized |
+| [customer-churn-api](https://github.com/sunkishalarohith/Customer-Churn-api) | Churn prediction microservice — scikit-learn + FastAPI + Docker, with tests |
+| [production-rag-evals](https://github.com/sunkishalarohith/production-rag-evals) | Retrieval evaluation for RAG — chunking, hybrid search, and reranking measured on labeled questions over SEC 10-K filings |
+| [ai-tools-library](https://github.com/sunkishalarohith/ai-tools-library) | Curated AI tools library — what each tool is, how to use it, and how to prompt it (20 guides) |
 
 ## Connect
 
